@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Risalah Hati",
+  "base_artist": "Dewa",
+  "createdAt": "2026-03-01T16:04:28.925360Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Risalah Hati",
+      "artist": "Dewa",
+      "has_synced": true,
+      "path": "select/01_Risalah_Hati_Dewa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Risalah Hati",
+      "artist": "Dewa 19",
+      "has_synced": true,
+      "path": "select/02_Risalah_Hati_Dewa_19.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Risalah Hati",
+      "artist": "Dewa",
+      "has_synced": true,
+      "path": "select/03_Risalah_Hati_Dewa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Risalah Hati",
+      "artist": "Pamungkas",
+      "has_synced": true,
+      "path": "select/04_Risalah_Hati_Pamungkas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Risalah Hati",
+      "artist": "Dewa 19",
+      "has_synced": true,
+      "path": "select/05_Risalah_Hati_Dewa_19.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Risalah Hati",
+      "artist": "Tami Aulia",
+      "has_synced": false,
+      "path": "select/06_Risalah_Hati_Tami_Aulia.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Risalah Hati",
+      "artist": "Mulan Jameela",
+      "has_synced": true,
+      "path": "select/07_Risalah_Hati_Mulan_Jameela.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Risalah Hati",
+      "artist": "Egha De Latoya",
+      "has_synced": true,
+      "path": "select/08_Risalah_Hati_Egha_De_Latoya.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Risalah Hati",
+      "artist": "Dewa 19 featuring Virzha",
+      "has_synced": true,
+      "path": "select/09_Risalah_Hati_Dewa_19_featuring_Virzha.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Risalah Hati",
+      "artist": "Dewa 19 & Yura Yunita",
+      "has_synced": true,
+      "path": "select/10_Risalah_Hati_Dewa_19_&_Yura_Yunita.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Risalah Hati (feat. Virzha)",
+      "artist": "Dewa 19",
+      "has_synced": true,
+      "path": "select/11_Risalah_Hati_(feat._Virzha)_Dewa_19.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Risalah Hati",
+      "artist": "Maha Dewi",
+      "has_synced": true,
+      "path": "select/12_Risalah_Hati_Maha_Dewi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Risalah Hati",
+      "artist": "Charly Van Houten",
+      "has_synced": true,
+      "path": "select/13_Risalah_Hati_Charly_Van_Houten.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Risalah Hati",
+      "artist": "Trisouls",
+      "has_synced": true,
+      "path": "select/14_Risalah_Hati_Trisouls.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Risalah Hati (feat. Virzha)",
+      "artist": "Dewa 19",
+      "has_synced": false,
+      "path": "select/15_Risalah_Hati_(feat._Virzha)_Dewa_19.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Risalah Hati",
+      "artist": "Mahadewi",
+      "has_synced": true,
+      "path": "select/16_Risalah_Hati_Mahadewi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Risalah Hati",
+      "artist": "Dewa 19, Yura Yunita",
+      "has_synced": true,
+      "path": "select/17_Risalah_Hati_Dewa_19,_Yura_Yunita.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Risalah Hati",
+      "artist": "Dewa 19",
+      "has_synced": false,
+      "path": "select/pl_01_Risalah_Hati_Dewa_19.txt"
+    }
+  ]
+}
